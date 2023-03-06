@@ -1,0 +1,4 @@
+1: Ler X 
+2: Ler y
+3: resultado = x + y
+4: Escreva resultado
