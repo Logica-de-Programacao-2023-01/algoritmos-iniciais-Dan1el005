@@ -1,6 +1,6 @@
 1: Solicite a lista de números
 2: Leia lista de números
-3: Inicializar var com 0
+3: Inicializar var soma com 0
 4: Faça a soma de todos os números da lista = resultado
 5: Faça resultado dividido por quantidade de números da lista = média
 6: Escreva média
