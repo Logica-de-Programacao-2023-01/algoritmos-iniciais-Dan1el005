@@ -4,3 +4,5 @@
 4: Faça a soma de todos os números da lista = resultado
 5: Faça resultado dividido por quantidade de números da lista = média
 6: Escreva média
+.
+
