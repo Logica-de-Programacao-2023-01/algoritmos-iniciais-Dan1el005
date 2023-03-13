@@ -1,0 +1,6 @@
+1: solicitar base e altura 
+2: leia base
+3: leia altura
+4: base * altura = x
+5: x/2 = resultado
+6: escreva resultado

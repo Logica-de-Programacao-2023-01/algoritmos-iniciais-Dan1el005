@@ -1,0 +1,11 @@
+1: número = n , n >=0 
+2: leia n 
+3: se n<=1 então: 
+4: resultado = 1 
+5: senão: 
+6: inicializar var resultado com 1 
+7: enquanto n>=1 faça: 
+8: resultado = n * resultado
+9: n = n -1
+10: fim enquanto
+11: escreva resultado
